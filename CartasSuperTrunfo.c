@@ -6,6 +6,7 @@ int main (){
     double pib;
     int pontos_turisticos;
 
+
     printf("população: \n");
     scanf("%d", &populacao );
 
